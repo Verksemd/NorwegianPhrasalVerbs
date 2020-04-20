@@ -1,1 +1,5 @@
 .idea
+copy_keys.py
+
+build
+dist
